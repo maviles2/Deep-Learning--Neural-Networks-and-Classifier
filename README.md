@@ -7,4 +7,4 @@ The following code will create neaural networks with scikit-learn, Keras, and cl
 
 - Keras
 
--MNIST database
+- MNIST database
